@@ -102,9 +102,6 @@ Customer Voice
       ├── Policy RAG Tool
       │
       ▼
- Reasoning Engine
-      │
-      ▼
  Final Response
       │
       ▼
@@ -218,6 +215,8 @@ Create a `.env` file:
 
 ```env
 COHERE_API_KEY=your_key
+
+GROQ_API_KEY = your_key
 
 DEEPGRAM_API_KEY=your_key
 
