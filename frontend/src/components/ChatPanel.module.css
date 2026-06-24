@@ -1,0 +1,124 @@
+.panel {
+  flex: 1;
+  background-color: #cbd5e1;
+  border-radius: 6px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  height: 455px;
+}
+
+.panelHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+  color: #1e293b;
+  margin-bottom: 12px;
+}
+
+.voiceBtn {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 500;
+  transition: background 0.2s;
+}
+
+.activeVoice {
+  background-color: #ffffff;
+}
+
+.chatArea {
+  flex: 1;
+  background-color: #ffffff;
+  border-radius: 4px;
+  padding: 15px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.messageRow {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  max-width: 85%;
+}
+
+.userRow {
+  align-self: flex-end;
+}
+
+.agentRow {
+  align-self: flex-start;
+}
+
+.avatar {
+  width: 28px;
+  height: 28px;
+  background-color: #e2e8f0;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.userAvatar {
+  background-color: #ddd6fe;
+  color: #6d28d9;
+}
+
+.agentAvatar{
+  background-color: #dee2ee;
+  color: #282bd9;
+  font-size: 25px;
+  padding: 3px;
+}
+
+.bubble {
+  background-color: #f1f5f9;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 14px;
+  color: #334155;
+  line-height: 1.4;
+}
+
+.userRow .bubble {
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+}
+
+.inputArea {
+  display: flex;
+  background-color: #ffffff;
+  border: 1px solid #94a3b8;
+  border-radius: 4px;
+  margin-top: 12px;
+  padding: 4px;
+}
+
+.input {
+  flex: 1;
+  border: none;
+  outline: none;
+  padding: 8px;
+  font-size: 14px;
+}
+
+.sendBtn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0 8px;
+  font-size: 23px;
+  margin : 2px 5px 0px 0px;
+}

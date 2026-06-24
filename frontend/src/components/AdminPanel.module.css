@@ -1,0 +1,84 @@
+.panel {
+  flex: 1;
+  background-color: #cbd5e1;
+  border-radius: 6px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  height: 455px;
+}
+
+.panelHeader {
+  font-weight: bold;
+  color: #1e293b;
+  margin-bottom: 12px;
+  height: 27px;
+  display: flex;
+  align-items: center;
+}
+
+.logContainer {
+  flex: 1;
+  background-color: #ffffff;
+  border-radius: 4px;
+  padding: 10px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.logRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid #f1f5f9;
+  font-size: 13px;
+  gap: 10px;
+}
+
+.timeTag {
+  color: #64748b;
+  font-family: monospace;
+}
+
+.stepName {
+  flex: 1;
+  color: #334155;
+  font-weight: 500;
+}
+
+.statusBadge {
+  font-weight: 600;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 12px;
+  text-align: right;
+}
+
+.success {
+  color: #16a34a;
+}
+
+.warning {
+  color: #d97706;
+}
+
+.overrideBtn {
+  width: 100%;
+  background-color: #fcd34d;
+  color: #78350f;
+  border: none;
+  padding: 12px;
+  margin-top: 12px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 14px;
+  cursor: pointer;
+  letter-spacing: 0.5px;
+  transition: background-color 0.2s;
+}
+
+.overrideBtn:hover {
+  background-color: #fbbf24;
+}

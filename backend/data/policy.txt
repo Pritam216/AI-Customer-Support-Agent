@@ -1,0 +1,200 @@
+SHOPSPHERE REFUND POLICY
+
+Effective Date: January 1, 2026
+
+RULE 1: STANDARD REFUND WINDOW
+
+Customers may request a refund only within 30 calendar days of the product delivery date.
+
+Any refund request submitted after the 30-day refund window has expired is not eligible for approval.
+
+Keywords: refund window, refund period, delivery date, late refund request, eligibility.
+
+Outcome:
+
+* Eligible if requested within 30 days of delivery.
+* Denied if requested after 30 days.
+
+RULE 2: ORDER VERIFICATION
+
+A valid order ID must be provided for every refund request.
+
+The customer's name or email must match the order information stored in the CRM system.
+
+Refund requests cannot be processed when the order cannot be verified or when customer information does not match the order record.
+
+Keywords: order verification, order ID, customer verification, CRM lookup, identity validation.
+
+Outcome:
+
+* Eligible if order information is verified successfully.
+* Denied if order verification fails.
+
+RULE 3: PRODUCT CONDITION
+
+Physical products are eligible for refund when they are returned in acceptable condition.
+
+Products that were intentionally damaged, altered, or misused by the customer are not eligible for a refund.
+
+Products that arrived damaged because of shipping or carrier-related issues remain eligible for a refund.
+
+Keywords: damaged product, shipping damage, physical product, return condition, customer damage.
+
+Outcome:
+
+* Eligible for shipping-related damage.
+* Denied for intentional customer damage.
+
+RULE 4: DIGITAL PRODUCTS
+
+Digital products, online courses, downloadable files, software licenses, and digital content become non-refundable after activation, download, access, or usage.
+
+Customers may request a refund only before the digital product has been activated or downloaded.
+
+Keywords: digital product, downloaded content, activated license, online course, software refund.
+
+Outcome:
+
+* Eligible before activation or download.
+* Denied after activation, download, or usage.
+
+RULE 5: REFUND LIMITS
+
+To prevent abuse of the refund system, customers may receive a maximum of two approved refunds within any rolling twelve-month period.
+
+Customers who have already received more than two approved refunds during the last twelve months are not eligible for additional refunds.
+
+Keywords: refund limit, refund count, excessive refunds, refund history, customer abuse prevention.
+
+Outcome:
+
+* Eligible if refund count is 2 or fewer.
+* Denied if refund count exceeds 2.
+
+RULE 6: HIGH-VALUE ORDERS
+
+Refund requests involving orders with a total purchase value greater than $500 require additional verification and human oversight.
+
+These requests cannot be automatically approved or denied by the support agent and must be escalated for manual review.
+
+Keywords: high value order, expensive purchase, order value above 500 dollars, large transaction, manual review.
+
+Outcome:
+
+* Manual Review for orders greater than $500.
+
+RULE 7: FINAL SALE ITEMS
+
+Products sold as clearance items, liquidation products, final-sale merchandise, or non-returnable inventory are not eligible for refunds.
+
+Customers are informed about final-sale restrictions at the time of purchase.
+
+Keywords: final sale, clearance item, liquidation product, non-returnable item, sale merchandise.
+
+Outcome:
+
+* Denied.
+
+RULE 8: SUBSCRIPTION PRODUCTS
+
+Subscription renewal charges may be refunded only within seven calendar days of the renewal date.
+
+After seven days have passed from the subscription renewal date, refund requests for subscription renewals are not eligible.
+
+Keywords: subscription refund, renewal charge, recurring billing, membership renewal, seven-day window.
+
+Outcome:
+
+* Eligible within 7 days of renewal.
+* Denied after 7 days.
+
+RULE 9: FRAUD PREVENTION
+
+Accounts flagged for suspicious activity, fraud indicators, chargeback abuse, identity concerns, or unusual purchasing behavior require additional investigation.
+
+These refund requests cannot be automatically processed and must be escalated for manual review.
+
+Keywords: fraud flag, suspicious account, chargeback abuse, risk review, account investigation.
+
+Outcome:
+
+* Manual Review.
+
+RULE 10: SHIPPING DELAYS
+
+Customers may request a refund when an order is delivered more than fourteen days later than the originally promised delivery date.
+
+The delay must not be caused by incorrect customer-provided delivery information.
+
+Keywords: shipping delay, delayed delivery, late shipment, promised delivery date, carrier delay.
+
+Outcome:
+
+* Eligible when delivery delay exceeds 14 days.
+
+RULE 11: DUPLICATE REFUND REQUESTS
+
+A customer cannot receive multiple refunds for the same order.
+
+If a refund has already been approved, processed, completed, or issued for an order, any additional refund request for that order must be denied.
+
+Keywords: duplicate refund, already refunded, previous refund, multiple refund request, refund processed.
+
+Outcome:
+
+* Denied.
+
+RULE 12: LOST SHIPMENTS
+
+Customers are eligible for a refund when the shipping carrier officially confirms that a package has been lost in transit and cannot be delivered.
+
+Carrier confirmation is required before processing the refund.
+
+Keywords: lost shipment, lost package, carrier confirmation, package missing, shipment lost.
+
+Outcome:
+
+* Eligible.
+
+RULE 13: EXCHANGE COMPLETED
+
+Orders that have already received a completed product exchange are not eligible for an additional refund.
+
+Customers must choose either an exchange or a refund, but not both.
+
+Keywords: exchange completed, exchanged item, replacement product, refund after exchange.
+
+Outcome:
+
+* Denied.
+
+RULE 14: GIFT PURCHASES
+
+Refund requests for gift purchases may only be submitted by the original purchaser.
+
+Gift recipients, gift receivers, or third parties are not authorized to request refunds on behalf of the purchaser.
+
+Keywords: gift purchase, gift recipient, original purchaser, gift refund request.
+
+Outcome:
+
+* Eligible only for original purchaser.
+* Denied for gift recipient.
+
+RULE 15: MANUAL REVIEW CONDITIONS
+
+The refund support system must escalate requests for manual review whenever policy conditions are conflicting, unclear, or require human judgment.
+
+Manual review is required when:
+
+* Order value exceeds $500.
+* Fraud indicators or suspicious account activity exist.
+* Multiple policy rules conflict.
+* The customer requests a policy exception.
+* The agent cannot confidently determine eligibility.
+
+Keywords: manual review, policy exception, conflicting rules, escalation, human approval.
+
+Outcome:
+
+* Manual Review.
